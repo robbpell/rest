@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rest_api", "rest_api.csproj", "{F4381568-011E-48DB-AD8D-24300171B55D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4381568-011E-48DB-AD8D-24300171B55D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08903B19-AC9A-418D-B8E7-2E0A0EEEE0D6}
+	EndGlobalSection
+EndGlobal
